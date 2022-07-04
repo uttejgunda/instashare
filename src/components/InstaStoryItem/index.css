@@ -1,0 +1,21 @@
+.slick-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+.user-story-image {
+  width: 50px;
+  border-radius: 50px;
+}
+
+.story-username {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  color: #262626;
+  text-align: center;
+}
